@@ -1,0 +1,14 @@
+{
+  "name": "my-real-portfolio",
+  "version": "1.0.0",
+  "description": "My final portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Daniel Schmidt",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
